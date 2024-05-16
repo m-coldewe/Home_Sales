@@ -24,9 +24,7 @@ Using SparkSQL on home sales data, I answered the following questions:
 ![avg_price_350k](https://github.com/m-coldewe/Home_Sales/assets/152045367/31354c10-fe2f-4d1a-8618-a34c1c530b2a)
 
 
-
-Uncached runtime: 1.09
-
-Cached runtime: 1.75
-
-Partitioned runtime: 0.04
+### Runtimes
+- Uncached runtime: 1.09
+- Cached runtime: 1.75
+- Partitioned runtime: 0.04
