@@ -26,5 +26,7 @@ Using SparkSQL on home sales data, I answered the following questions:
 
 
 Uncached runtime: 1.09
+
 Cached runtime: 1.75
+
 Partitioned runtime: 0.04
